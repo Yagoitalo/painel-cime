@@ -1,1 +1,1 @@
-# painel-cime
+# painel-clima
